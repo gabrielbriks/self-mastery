@@ -1,6 +1,4 @@
-# self-mastery
-
-Desafio QGR - Botão dos Sentimentos
+**Desafio QGR - Botão dos Sentimentos**
 
 <h1 align="center">
  Self-Mastery
