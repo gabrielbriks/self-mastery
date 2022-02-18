@@ -53,5 +53,5 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 <div align="center">
   <small>Desenvolvido por Gabriel Morais - Fevereiro/2022</small>
 
-  [![Instagram Badge](https://img.shields.io/badge/-moraisgabriel11-6633cc?style=flat-square&labelColor=6633cc&logo=instagram&logoColor=white&link=https://www.instagram.com/moraisgabriel11/)](https://www.instagram.com/moraisgabriel11/)
+  [![Instagram Badge](https://img.shields.io/badge/-moraisgabriel11-6633cc?style=flat-square&labelColor=19258E&logo=instagram&logoColor=white&link=https://www.instagram.com/moraisgabriel11/)](https://www.instagram.com/moraisgabriel11/)
 </div>
