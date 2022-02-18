@@ -12,7 +12,7 @@ Desafio QGR - Botão dos Sentimentos
  <img src="https://img.shields.io/static/v1?label=QGR&message=00&color=f09552&labelColor=0A1033" alt="Q" />
 </p>
 
-## 💻 Projeto Front-End
+## 💻 Projeto - Pototipo Front-End
 
 Aplicativo para ajudar as crianças a aprenderem a lidar ou superar sentimentos.
 
@@ -33,7 +33,7 @@ Aplicativo para ajudar as crianças a aprenderem a lidar ou superar sentimentos.
 
 Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/tRhlRPnjM4VpLMtJtQcM8o/Sef-Mastery?node-id=176%3A23). É necessário ter conta no [Figma](http://figma.com/) para acessá-lo.
 
-Ou visualiza-lo funcionando através [desse link](https://self-mastery.netlify.app/)
+Ou visualiza-lo funcionando através [desse link](https://self-mastery.netlify.app/).
 
 ## Executando o projeto
 
