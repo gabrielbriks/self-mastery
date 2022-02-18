@@ -12,7 +12,7 @@ Desafio QGR - Botão dos Sentimentos
  <img src="https://img.shields.io/static/v1?label=QGR&message=00&color=f09552&labelColor=0A1033" alt="Q" />
 </p>
 
-## 💻 Projeto - Pototipo Front-End
+## 💻 Projeto - Protótipo Front-End
 
 Aplicativo para ajudar as crianças a aprenderem a lidar ou superar sentimentos.
 
